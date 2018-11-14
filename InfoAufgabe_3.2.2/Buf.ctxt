@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Buf
+comment0.text=\r\n\ Buf-Gatter\r\n\ \r\n\ @author\ Daniel\ Gerl,\ Sebastian\ Michel\r\n
+comment1.params=d
+comment1.target=Buf(int)
+comment2.params=
+comment2.target=void\ calculate()
+comment3.params=t
+comment3.target=void\ calculate(int)
+numComments=4

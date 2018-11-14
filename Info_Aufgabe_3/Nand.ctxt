@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Nand
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ NAND.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=AnzahlEingaenge\ d
+comment1.target=Nand(int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Aufgabe\ 2,\ RS-Latch-Simulation\r\n
+comment2.params=
+comment2.target=void\ calculate()
+numComments=3

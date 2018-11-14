@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Signal
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Signal.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=parameter
+comment1.target=Signal(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Signal\r\n
+comment2.params=
+comment2.target=void\ hi()
+comment3.params=value\ t
+comment3.target=void\ setValue(boolean,\ int)
+comment4.params=value
+comment4.target=void\ setValue(boolean)
+comment5.params=n
+comment5.target=void\ setConnection(Gatter)
+comment6.params=
+comment6.target=boolean\ getValue()
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Or
+comment1.params=AnzahlEingaenge\ d
+comment1.target=Or(int,\ int)
+comment2.params=
+comment2.target=void\ calculate()
+numComments=3
